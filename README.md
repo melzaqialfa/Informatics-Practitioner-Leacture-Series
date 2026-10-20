@@ -4,15 +4,6 @@ Kumpulan program Python mandiri untuk enam sesi *Informatics Practitioner Lectur
 (Informatika Unib). Tiap file mewakili satu sesi dan berisi satu studi kasus lengkap, dari
 pembuatan data simulasi sampai hasil yang bisa dijalankan.
 
-## Cara menjalankan
-```bash
-pip install -r requirements.txt
-python "Make Sense of Data with Analysis and AI.py"
-```
-Ganti nama file untuk sesi lain. Hasil berkas (GeoJSON, HTML) tersimpan di folder `output/`.
-
----
-
 ## Sesi 1: Make Sense of Data with Analysis and AI
 - **Narasumber:** Andria Arisal (BRIN)
 - **Studi kasus:** Analisis risiko piutang dan strategi penanganan kredit
